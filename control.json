@@ -2,5 +2,5 @@
   "version": "1.8.9",
   "status": "on",
   "message": "Tool đang hoạt động bình thường",
-  "force_update": false
+  "force_update": true
 }
